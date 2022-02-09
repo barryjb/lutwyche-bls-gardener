@@ -1,0 +1,8 @@
+#code
+sort lbls-navbar (esp. background color)
+sort footer
+make .location-branded-font different to Best Local Services font (almost like its been stamped on as a subsidiary of Best Local Services)
+make .service-branded-font different to Best Local Services font (almost like its been stamped on as a subsidiary of Lutwyche Best Local Services)
+
+
+#dev ops
